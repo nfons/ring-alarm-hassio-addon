@@ -2,7 +2,7 @@
   "name": "ring alarm hassio integration",
   "version": "0.52",
   "slug": "ring_alarm",
-  "description": "Ring Alarm Integration! uses https://github.com/tsightler/ring-alarm-mqtt",
+  "description": "Ring Alarm Integration! uses https://github.com/nfons/ring-alarm-mqtt",
   "startup": "before",
   "boot": "auto",
   "arch": [
