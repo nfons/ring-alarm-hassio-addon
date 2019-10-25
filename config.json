@@ -1,5 +1,5 @@
 {
-  "name": "ring alarm hassio integration",
+  "name": "ring alarm hassio",
   "version": "0.52",
   "slug": "ring_alarm",
   "description": "Ring Alarm Integration! uses https://github.com/nfons/ring-alarm-mqtt",
